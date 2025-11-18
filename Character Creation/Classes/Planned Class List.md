@@ -1,0 +1,8 @@
+- Sorcerer: Self-taught spellcaster (Draw cards to make spells on the fly)
+- Wizard: Officially-educated spellcaster (Pre-prepare a limited number of spells)
+- Privateer: Sailor and swashbuckler (General use class for utility stuff and skills involving the ocean)
+- Combatant: Fighter (Fighter)
+- Cleric: Spellcaster that draws off divine power (Gets unique divine spells based on which divine beast to draw off)
+- Spy: Sneaky class of sneaky things (dnd rogue (I LOVE ROGUE))
+- Puppeteer: Support martial class focused on control
+- Oracle: Support spellcaster focused on influencing fate

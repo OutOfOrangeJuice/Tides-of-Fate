@@ -1,0 +1,6 @@
+- The Fathom Father, Progenitor of Krakens: Big Kraken – basically the chaotic evil deity of krakens and the threats of the deep. Is asleep.
+- The World Serpent, Progenitor of Serpents: Big Snake – basically the neutral/lawful evil deity of sea serpents. Surfaces every so often to hunt islands.
+- The Matriarch Leviathan, Progenitor of Leviathans: Big Fish – sorta the neutral deity representing strength and independence. Territorial, but does not hurt anything that has not encroached on its lawn. Also patreon deity of the Orcon.
+- The Red Tide, Progenitor of Blooms: Algal Bloom – the chaotic neutral deity of caustic life. Seasonal in activity, but also is at the centre of an algal desert. Siphor live on the edges as they're immune to the toxic waters, but nobody has ventured all the way in.
+- The Crystalline Isle, Greatest of Islands: Massive Island – basically the lawful good deity. Appears mysteriously and disappears mysteriously, bringing safety and order back in big problem situations.
+- The First Phoenix, Progenitor of Phoenixes: Ancient Phoenix – other good deity and patreon of the kitsune. Powerful being that rarely acts.
