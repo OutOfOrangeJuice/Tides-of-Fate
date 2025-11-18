@@ -1,3 +1,2 @@
 This folder contains my ideas for a card based tabletop game
-
-Status: Active
+It's pretty casual atm but I'll probably develop it more
