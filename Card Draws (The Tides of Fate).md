@@ -13,6 +13,7 @@ Play with two piles: Active pile and discard pile. Cards are set into the discar
 Shuffling happens when
 - The active pile is empty
 - After resting
+- Player(s) level up
 - Between sessions
 - At the dm's discretion (important scene transitions, moments before fights, turning points, etc.)
 

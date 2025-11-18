@@ -1,0 +1,1 @@
+Stats: +3 to slease, +2 to persistence, +1 to will

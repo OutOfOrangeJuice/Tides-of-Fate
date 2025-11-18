@@ -1,0 +1,1 @@
+Stats: +3 to will, +2 to moxie, +1 to aptitude

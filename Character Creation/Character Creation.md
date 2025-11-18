@@ -1,9 +1,11 @@
 First, select a magic affinity:
 - Hearts: Enchantment – the magic of change
-- Diamonds: Divine – channeling the power of powerful entities
+- Diamonds: Divine – channeling the power of divine beasts
 - Clubs: Elemental – basically evocation from dnd
 - Spades: Summoning – the magic of creation
 When you draw a card of your magic affinity, draw a bonus card and add it to your total. If the bonus card is also of your magic affinity, add another bonus card to a maximum of three cards.
+
+Then select your race.
 
 Then select your attributes
 - Punch: For hitting things

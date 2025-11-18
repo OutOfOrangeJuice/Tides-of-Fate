@@ -6,4 +6,4 @@ Dragons come from the moon. They fly through space using magic and prey on islan
 
 Dragons are the biggest threat to people living on islands. Also their blood is toxic because lol.
 
-Also they have breath weapons but I'll work on those later.
+Also they have breath weapons but I'll work on those later. Along with the rest of the lore and the stat block.

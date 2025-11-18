@@ -1,0 +1,1 @@
+Stats: +3 to moxie, +2 to aptitude, +1 to schmoove
