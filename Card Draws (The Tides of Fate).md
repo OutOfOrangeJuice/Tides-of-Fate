@@ -11,7 +11,7 @@ Except for stat selection which has different rules (blackjack). If a joker is d
 Play with two piles: Active pile and discard pile. Cards are set into the discard pile after being drawn. When shuffling occurs, mix the two piles (if there are two piles) and shuffle as normal.
 
 Shuffling happens when
-- The active pile is empty
+- The active pile is empty and another card needs to be drawn
 - After resting
 - Player(s) level up
 - Between sessions

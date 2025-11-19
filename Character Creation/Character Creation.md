@@ -1,6 +1,6 @@
 First, select a magic affinity:
 - Hearts: Enchantment – the magic of change
-- Diamonds: Divine – channeling the power of divine beasts
+- Diamonds: Divine – channelling the power of divine beasts
 - Clubs: Elemental – basically evocation from dnd
 - Spades: Summoning – the magic of creation
 When you draw a card of your magic affinity, draw a bonus card and add it to your total. If the bonus card is also of your magic affinity, add another bonus card to a maximum of three cards.
@@ -26,7 +26,7 @@ Draw stats by playing blackjack
 - If you get exactly 21, draw another bonus card
 - Add bonus card values to the final stat value
 - Put the used cards in the discard pile
-Do this 6 times and select which stat numbers go where
+Do this 7 times and select which stat numbers go where
 
 Stat Bonuses
 - 0 is -5
@@ -38,7 +38,7 @@ Stat Bonuses
 Then select your class. 
 
 Rest of the stats can be calculated
-AC is base 9 + Schmoove bonus
+AC is base 7 + Schmoove bonus
 Health depends on class and Persistence bonus
 
 Also pick a number of skills to increase based on Aptitude bonus. (Per level: 2 + bonus, minimum 1)
