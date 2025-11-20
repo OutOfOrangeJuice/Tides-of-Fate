@@ -1,0 +1,3 @@
+- Draw for initiative to determine turn order. Same number initiative between two people means the one with the highest schmoove goes first. If exactly the same, player goes first. If 2 players are exactly the same, just have them go at the same time. 
+- On a turn, each player has 3 actions. You can use an action to do something, move 20ft, make an attack, etc.
+- The third action can be delayed to be done on another person's turn for unique effects. However, you can only delay the third action to be on a turn that is below you in initiative. 

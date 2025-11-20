@@ -5,7 +5,7 @@ Orcon are a large and physically imposing race, bearing sleek features with a hu
 Orcon have a strength-oriented culture, with few of them choosing to learn magic. They tend to be very insular, but will enthusiastically accept outsiders who prove their strength in one way or another, while also boasting about their own strength to anyone who will listen. Many Orcon can be found working as haulers or as guards for ships, due to their capabilities in the water. 
 
 #### Features
-Walk Speed: 30ft
-Swim Speed: 30ft
+Walk Speed: 20ft
+Swim Speed: 20ft
 Languages: Common
 Special Features: Hold Breath (20m), Watervision 120ft

@@ -4,6 +4,6 @@ Humans are the most populous race in the world being the majority population on 
 Humans look like humans and have human features.
 
 #### Features
-Walk Speed: 30ft
+Walk Speed: 20ft
 Swim Speed: 15ft
 Languages: Common

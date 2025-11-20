@@ -5,7 +5,7 @@ Siphor have a humanoid gelatinous body that possesses surprising strength despit
 Siphor are mysterious and don't like to talk about themselves to people of other races. They live on many islands on the border of the Red Desert, the region choked by the Red Tide. It is unknown how many Siphor exist outside of the islands, as many of them prefer to avoid civilisation altogether and spend their time drifting in the vast ocean in small communities, going wherever the tides take them. Siphor are rarely seen in larger civilised islands, but many of them often end up settling briefly in smaller islands communities.
 
 #### Features
-Walk Speed: 30ft
-Swim Speed: 25ft
+Walk Speed: 20ft
+Swim Speed: 20ft
 Languages: Common
 Special Features: Water-breathing, Electrosense 60ft

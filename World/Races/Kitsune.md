@@ -5,7 +5,7 @@ Kitsune are humanoid, but possess varying vulpine features in a variety of colou
 Kitsune are known for their curiosity and magical talent, making them very popular among wizard schools and cleric clubs. While many are unfamiliar with them, their natural charisma and adaptability makes them a good fit for many crews looking to sail the seas. However, while Kitsune can easily get along with others, they rarely form deep or long-lasting relationships with people who are not of the same race.
 
 #### Features
-Walk Speed: 30ft
+Walk Speed: 20ft
 Swim Speed: 15ft
 Languages: Common
 Special Features: Phoenix Eyes, Blessing of Fire

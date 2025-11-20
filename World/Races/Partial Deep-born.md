@@ -5,8 +5,8 @@ Partial Deep-Born had human hair and less bulging eyes. However, they still poss
 Partial Deep-Born are generally regarded poorly by humans and Deep-Born, who see them as unnatural. This, combined with the fact that human-Deep-Born relationships are heavily looked down upon by both races means that they often have a rough childhood and find themselves in lower positions on smuggling boats or crime organisations. However, the Partial Deep-Born that avoid this fate often find Cleric Clubs or Orcon communities in which they are accepted and can make use of their talents.
 
 #### Features
-Walk Speed: 30ft
-Swim Speed: 20ft
+Walk Speed: 20ft
+Swim Speed: 15ft
 Languages: Common
 Special Features: Watervision 60ft, Cursed Heritage
 

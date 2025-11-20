@@ -5,7 +5,7 @@ The Deep-Born possess many human features, however, they have bulging fishlike e
 Deep-Born have become known for a lack of morals and general untrustworthiness due to their heritage. The Fathom-Father's dreams are said to touch their minds, corrupting Deep-Born from a young age and dampening their sense of empathy for other creatures while enhancing their innate selfishness. It is not known whether this is true, but the demographics do indicate them committing more crimes according to humans. On a related note, humans find Deep-Born unsettling and repulsive to be around.
 
 #### Features
-Walk speed: 30ft
-Swim speed: 20ft
+Walk speed: 20ft
+Swim speed: 15ft
 Languages: Common
 Special Features: Water-Breathing, Watervision 120ft, Darkvision 30ft
