@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/Classes/Combatant/Subclasses summary.md",
+                "file": "Character Creation/Classes/Puppeteer/Subclasses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subclasses summary"
+              "title": "Subclasses"
             }
           }
         ]
@@ -155,10 +155,18 @@
   },
   "active": "d998a2e7abb445e9",
   "lastOpenFiles": [
+    "Character Creation/Classes/Privateer/Subclasses Summary.md",
+    "Character Creation/Classes/Puppeteer/Subclasses.md",
+    "Character Creation/Classes/Combatant/Subclasses summary.md",
+    "Character Creation/Classes/Privateer/Class Summary.md",
+    "Character Creation/Classes/Puppeteer/Class Summary.md",
+    "Character Creation/Classes/Puppeteer",
+    "Character Creation/Classes/Privateer",
+    "Character Creation/Classes/Necromancer/Class Summary.md",
+    "Character Creation/Classes/Necromancer",
     "Character Creation/Classes/Combatant/Class summary.md",
     "Character Creation/Classes/Summary explanation.md",
     "Character Creation/Classes/Planned Class List.md",
-    "Character Creation/Classes/Combatant/Subclasses summary.md",
     "Character Creation/Classes/Combatant",
     "World/Races/List of Races.md",
     "World/Races/Siphor.md",

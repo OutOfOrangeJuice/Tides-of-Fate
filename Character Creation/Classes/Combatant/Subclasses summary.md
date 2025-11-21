@@ -27,6 +27,7 @@ Stances: Fin Striker, Lure, Predator
 Fin Striker does melee control effects
 Lure specialises in keeping the attention of one enemy
 Predator takes advantage of control effects to do massive damage
+Note: Glaive hunter requires either Orcon race or a specific background (Orcon-raised)
 
 #### Gunner
 Stances: Smoke Dance, Thunder Strike, Lead Storm
