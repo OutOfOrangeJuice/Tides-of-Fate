@@ -1,0 +1,3 @@
+The necromancer class is sort of like a bonus class that's not super involved with some of the other mechanics in the system. The idea is that it's not really common in the world, but you can interact with some unique mechanics if you pick it. 
+
+Necromancers are a minion focused class with some martial and spellcasting ability, although the primary focus of the class is in reanimating corpses to serve as minions. Necromancers fight with lesser zombie hordes, custom stitched-together Frankenstein's monster-esque zombies, skeletons occasionally, reanimated bodies of your enemies, etc. Based on the necromancers from unconventional heroes because that's my favourite book series. 
