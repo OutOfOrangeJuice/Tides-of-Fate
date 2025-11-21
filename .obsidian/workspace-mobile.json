@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Races/List of Races.md",
+                "file": "Character Creation/Classes/Combatant/Subclasses summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List of Races"
+              "title": "Subclasses summary"
             }
           }
         ]
@@ -155,18 +155,22 @@
   },
   "active": "d998a2e7abb445e9",
   "lastOpenFiles": [
+    "Character Creation/Classes/Combatant/Class summary.md",
+    "Character Creation/Classes/Summary explanation.md",
+    "Character Creation/Classes/Planned Class List.md",
+    "Character Creation/Classes/Combatant/Subclasses summary.md",
+    "Character Creation/Classes/Combatant",
+    "World/Races/List of Races.md",
     "World/Races/Siphor.md",
     "World/Races/Partial Deep-born.md",
     "World/Races/Orcon.md",
     "World/Races/Kitsune.md",
     "World/Races/Human.md",
     "World/Races/Deep-Born.md",
-    "World/Races/List of Races.md",
     "World/DRAGONS.md",
     "World/Islands.md",
     "Card Draws (The Tides of Fate).md",
     "Character Creation/Character Creation.md",
-    "Character Creation/Classes/Planned Class List.md",
     "Character Creation/Skill List.md",
     "World/Divine Beasts/List of Divine Beasts.md",
     "readme.md"

@@ -1,0 +1,1 @@
+Summaries are summaries of my plans for making classes and subclasses. I'll try to follow them when making the actual stats because I like to have some direction when designing the rules.

@@ -6,3 +6,4 @@
 - Spy: Sneaky class of sneaky things (dnd rogue (I LOVE ROGUE))
 - Puppeteer: Support martial class focused on control
 - Oracle: Support spellcaster focused on influencing fate
+- Necromancer: Bonus class that centres around raising dead enemies to fight as minions
