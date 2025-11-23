@@ -1,0 +1,1 @@
+Wizardry applies to most wizards and some partial spellcasters. Wizardry works like dnd spellcasting, where wizards gain a limited number of spell slots and can prepare spells of certain levels, etc etc. 

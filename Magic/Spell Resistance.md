@@ -1,0 +1,1 @@
+Spell Resistance is basically ac for certain spells, based on will rather than dexterity. Armour adds to this bonus but does not reduce the willpower bonus. Spells that require spell resistance take 1 draw + willpower bonus and always hit on ace.
