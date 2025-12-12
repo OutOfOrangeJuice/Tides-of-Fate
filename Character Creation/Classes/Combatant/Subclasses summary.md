@@ -32,5 +32,5 @@ Note: Glaive hunter requires either Orcon race or a specific background (Orcon-r
 #### Gunner
 Stances: Smoke Dance, Thunder Strike, Lead Storm
 Smoke Dance is about both melee and ranged gun combat with light and medium firearms
-Thunder Strike does big hits from long range with heavier firearms
-Lead Storm focuses on wide area burst damage with heavy firearms
+Thunder Strike does big hits from long range with heavy firearms
+Lead Storm focuses on wide area burst damage with very heavy firearms

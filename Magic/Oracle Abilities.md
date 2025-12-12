@@ -1,1 +1,1 @@
-Oracles cast the same as sorcerers, but instead of modifiers, they can use their oracle abilities when poker scoring effects are in their hands -- e.g two of a kind, three of a kind, straight, flush, full house, etc. etc.
+Oracles cast the same as sorcerers, but instead of modifiers, they can use their oracle abilities when poker scoring effects are in their hands – e.g two of a kind, three of a kind, straight, flush, full house, etc. etc.
