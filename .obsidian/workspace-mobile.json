@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Spells/Level 3/Water Beam.md",
+                "file": "Character Creation/Classes/Necromancer/Class Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Water Beam"
+              "title": "Class Summary"
             }
           }
         ],
@@ -170,8 +170,8 @@
   },
   "active": "1e171906a3603dae",
   "lastOpenFiles": [
-    "Magic/Spell Resistance.md",
     "Magic/Spells/Level 3/Water Beam.md",
+    "Magic/Spell Resistance.md",
     "Magic/Spells/Level 2/Water Jet.md",
     "Magic/Spells/Level 3",
     "Magic/Spells/Level 1/Water Blades.md",
