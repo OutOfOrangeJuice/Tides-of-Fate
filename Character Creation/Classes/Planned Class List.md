@@ -1,9 +1,8 @@
-- Sorcerer: Self-taught spellcaster (Draw cards from a hand to cast spells on the fly)
-- Wizard: Officially-educated spellcaster (Pre-prepare a limited number of spells, like in dnd)
+- Mage: Draws cards into a hand to cast magic spells. 
 - Privateer: Sailor and swashbuckler (General use martial class for utility stuff and skills involving the ocean)
 - Combatant: Fighter (Fighter)
-- Cleric: Spellcaster that draws off divine power (Gets unique divine spells based on which divine beast to draw off, otherwise works like sorcerer but off moxie)
+- Cleric: Spellcaster that draws off divine power (Gets unique divine spells based on which divine beast you draw power from)
 - Spy: Sneaky class of sneaky things (basically dnd rogue (I LOVE ROGUE))
 - Puppeteer: Support martial class focused on control
-- Oracle: Support spellcaster focused on influencing fate (uses unique fate-twisting abilities with poker hands)
+- Oracle: Support spellcaster focused on influencing fate (gets lots of foresight and builds a seven-card hand with abilities from poker scoring)
 - Necromancer: Bonus class that centres around raising dead enemies to fight as minions (heavily dependent on the dm providing combat encounters that deliver good bodies)

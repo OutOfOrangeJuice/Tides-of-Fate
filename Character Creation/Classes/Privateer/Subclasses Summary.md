@@ -1,5 +1,5 @@
 #### Cannoneer
-This subclass of Privateer focuses on operating large weapon emplacements. While cumbersome, the power of these weapons is unrivalled in low level encounters. As such, this subclass focuses on making the cannons more versatile and easy to use rather than increasing damage output.
+This subclass of Privateer focuses on operating large weapon emplacements. While cumbersome, the power of these weapons is unrivalled in low level encounters and makes a big impact in higher-level encounters. As such, this subclass focuses on making the cannons more versatile and easy to use rather than increasing damage output.
 
 #### Navigator
 The Navigator is the least combat-oriented subclass of Privateer, with a focus on knowledge and support. Navigators are specialised in navigating the tides and currents of the ocean, avoiding the territories of predators, and tracking down specific islands. This subclass also gets access to some ship piloting abilities similar to the captain.

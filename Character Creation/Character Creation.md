@@ -7,7 +7,7 @@ When you draw a card of your magic affinity, draw a bonus card and add it to you
 
 Then select your race.
 
-Then select your attributes
+Then draw for your attributes
 - Punch: For hitting things
 - Schmoove: For sliding around
 - Persistence: For not going down

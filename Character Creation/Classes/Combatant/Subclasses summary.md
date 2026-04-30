@@ -2,19 +2,19 @@
 Stances: Wrecker, Grappler, Trickster
 Wrecker is simple damage
 Grappler focuses on grappling opponents for high damage
-Trickster extends and exacerbates control effects
+Trickster extends and exacerbates control effects while being hard to catch
 
 #### Blademaster
 Stances: Surging Waves, Crashing Glacier, Summer Storm
 Surging Waves focuses on attacking single targets with a lot of attacks
 Crashing Glacier is all about high damage strikes with two handed weapons
-Summer Storm spins through combat to fight multiple enemies
+Summer Storm spins through combat to fight multiple enemies at once
 
 #### Defender
 Stances: Vast Expanse, Inescapable Horizon, Unbroken Mirage
 Vast Expanse focuses on damage reduction
 Inescapable Horizon focuses on control effects
-Unbroken Mirage focuses on ac
+Unbroken Mirage focuses on not getting hit
 
 #### Ranger
 Stances: Sky Ranger, Night Ranger, Sea Ranger
