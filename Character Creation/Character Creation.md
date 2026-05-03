@@ -37,8 +37,8 @@ Stat Bonuses
 
 Then select your class. 
 
-Rest of the stats can be calculated
-AC is base 7 + Schmoove bonus
+Rest of the stats can be calculated:
+
 Health depends on class and Persistence bonus
 
 Also pick a number of skills to increase based on Aptitude bonus. (Per level: 2 + bonus, minimum 1)

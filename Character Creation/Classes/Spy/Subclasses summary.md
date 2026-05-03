@@ -14,4 +14,4 @@ The least sneaky of the spy subclasses. The reaver centres around a barrier mech
 Bounty Hunter is a more mercantile spy variant with a focus on traps and some abilities that it shares with the ranger. Generally more useful with setup, and not that helpful out of combat.
 
 #### Adept
-Adept is the more monk-adjacent subclass, with various combat maneuvers that allow it to activate and take advantage of control effects. More skilled than the average spy. 
+Adept is the more monk-adjacent subclass, with various combat maneuvers that allow it to activate and take advantage of control effects. More freely skilled than the average spy. 

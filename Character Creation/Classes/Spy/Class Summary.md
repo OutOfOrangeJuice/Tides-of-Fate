@@ -1,3 +1,3 @@
-Spy is the sneaky class. I want to basically just do dnd rogue because rogue I think is the most well designed of all the dnd classes. However, many subclasses will also have some out of combat abilities related to espionage and other sneaky stuff.
+Spy is the sneaky class. I want to basically just do dnd rogue because rogue I think is the most well designed of all the dnd classes. However, many subclasses will also have some out of combat abilities related to espionage and other sneaky stuff. The foundation is still to be the high damage skill monkey class.
 
 Spies get sneak attack which allows them to make devastatingly powerful attacks with foresight. Also other various abilities that use sleaze and schmoove.
