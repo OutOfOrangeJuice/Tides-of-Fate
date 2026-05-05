@@ -5,7 +5,7 @@ First, select a magic affinity:
 - Spades: Summoning – the magic of creation
 When you draw a card of your magic affinity, draw a bonus card and add it to your total. If the bonus card is also of your magic affinity, add another bonus card to a maximum of three cards.
 
-Then select your race.
+Then select your race – details in the race section.
 
 Then draw for your attributes
 - Punch: For hitting things
@@ -35,7 +35,7 @@ Stat Bonuses
 - Max stat value is 30
 - 3 stat points is +1 bonus
 
-Then select your class. 
+Then select your class – details in the class section.
 
 Rest of the stats can be calculated:
 
