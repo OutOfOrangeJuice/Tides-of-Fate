@@ -24,6 +24,9 @@
 - Tandem Fighter
 - Trapper
 
+### Hunter
+- 
+
 ## Magical Archetypes
 
 ### Sorcerer
@@ -55,6 +58,11 @@
 - Horde Lord
 - Artificer
 - Lich Ascendant
+
+### Oracle
+- Fate-Twister
+- Gambler
+- 
 
 
 ## Buccaneer Archetypes
