@@ -25,7 +25,14 @@
 - Trapper
 
 ### Hunter
-- 
+- Sky Ranger
+- Tracker
+- Mariner
+
+### Changeling
+- Divine Wing
+- Feral Claw
+- Breaching Fin
 
 ## Magical Archetypes
 
@@ -62,7 +69,7 @@
 ### Oracle
 - Fate-Twister
 - Gambler
-- 
+- Chronomancer
 
 
 ## Buccaneer Archetypes
@@ -80,7 +87,7 @@
 ### Crew
 - Rigger
 - Swabber
-- Cannoneer
+- Rower
 
 ### Scout
 - Lookout
@@ -91,3 +98,13 @@
 - Naturalist
 - Investigator
 - Doctor
+
+### Plunderer
+- Harpooner
+- Cannoneer
+- Swashbuckler
+
+### Bard
+- Skald
+- Siren
+- Windcaller
