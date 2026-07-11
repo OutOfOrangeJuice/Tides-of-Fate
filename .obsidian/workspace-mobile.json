@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overhaul/Archetypes.md",
+                "file": "Old Stuff/Character Creation/Character Creation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Archetypes"
+              "title": "Character Creation"
             }
           }
         ],
@@ -170,8 +170,8 @@
   },
   "active": "1e171906a3603dae",
   "lastOpenFiles": [
-    "Overhaul/Overview.md",
     "Overhaul/Archetypes.md",
+    "Overhaul/Overview.md",
     "Overhaul/What makes a Character.md",
     "Levelling Up.md",
     "World/DRAGONS.md",
